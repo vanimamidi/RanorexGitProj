@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="RanorexGitProjRepository"
+id="8013d35f-0e09-4d79-bd68-66c35f671d61"
+rxversion="8.2">
+  <codegen
+  classname="RanorexGitProjRepository"
+  namespace="RanorexGitProj"/>
+  <rootfolder
+  name="Root"
+  id="a9db29b7-7f6f-436d-abce-4e21c4aac2b8"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

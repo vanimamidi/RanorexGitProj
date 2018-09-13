@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="398d94b7-2609-4407-9506-1b286b37a64e"
+mode="Global"
+rxversion="8.2">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="RanorexGitProj">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="8013d35f-0e09-4d79-bd68-66c35f671d61"
+	name="RanorexGitProjRepository"
+	relativepath="RanorexGitProjRepository.rxrep"
+	rxversion="8.2">
+		<codegen
+		classname="RanorexGitProjRepository"
+		namespace="RanorexGitProj">
+		</codegen>
+		<rootfolder
+		id="a9db29b7-7f6f-436d-abce-4e21c4aac2b8"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.2">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="RanorexGitProj"
+      id="4b25b2ff-dc25-47f1-9137-bfb464efe46e"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="RanorexGitProj"
+      id="4b25b2ff-dc25-47f1-9137-bfb464efe46e"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
